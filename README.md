@@ -7,6 +7,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / NODE JS / EXPRESS / MONGO DB / WORDPR
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FaixySaati)  
 
 ![Profile views](https://gpvc.arturio.dev/FaixySaati)  
